@@ -73,7 +73,7 @@ footer {
     align-items: center;
     justify-content: center;
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -82,7 +82,7 @@ footer {
 
 .bob {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -91,7 +91,7 @@ footer {
 
 .billy {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -100,7 +100,7 @@ footer {
 
 .john {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -109,7 +109,7 @@ footer {
 
 .jimmy {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -118,7 +118,7 @@ footer {
 
 .van {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -127,7 +127,7 @@ footer {
 
 .angus {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -136,7 +136,7 @@ footer {
 
 .jimmy-p {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -145,7 +145,7 @@ footer {
 
 .robby {
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
