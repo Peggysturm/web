@@ -1,0 +1,183 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eee;
+}
+
+article {
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+header {
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15spx;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+footer {
+    margin-left: 69px;
+    margin-right: 69px;
+}
+
+.les-paul {
+    border-radius: 11px;
+}
+
+.strat {
+    border-radius: 11px;
+}
+
+.sg {
+    border-radius: 11px;
+}
+
+.slash {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.bob {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.billy {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.john {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.jimmy {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.van {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.angus {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.jimmy-p {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.robby {
+    background-color: #fff;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.slash-img {
+    border-radius: 11px;
+}
+
+.bob-img {
+    border-radius: 11px;
+}
+
+.billy-img {
+    border-radius: 11px;
+}
+
+.john-img {
+    border-radius: 11px;
+}
+
+.jimmy-img {
+    border-radius: 11px;
+}
+
+.van-img {
+    border-radius: 11px;
+}
+
+.angus-img {
+    border-radius: 11px;
+}
+
+.jimmy-p-img {
+    border-radius: 11px;
+}
+
+.robby-img {
+    border-radius: 11px;
+}
