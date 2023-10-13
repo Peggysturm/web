@@ -11,15 +11,15 @@ article {
     align-items: center;
     justify-content: center;
 }
-
 section{
+    width: 100%;
     margin-left: 35px;
     margin-right: 35px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-  }
+}
 
 header {
     text-align: center;
@@ -50,14 +50,20 @@ footer {
 }
 
 .les-paul {
+    width: 50%;
+    height: 50%;
     border-radius: 11px;
 }
 
 .strat {
+    width: 50%;
+    height: 50%;
     border-radius: 11px;
 }
 
 .sg {
+    width: 50%;
+    height: 50%;
     border-radius: 11px;
 }
 
