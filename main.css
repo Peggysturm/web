@@ -49,25 +49,13 @@ footer {
     margin-right: 69px;
 }
 
-.les-paul {
+.guitars {
     width: 75%;
     height: 75%;
     border-radius: 11px;
 }
 
-.strat {
-    width: 75%;
-    height: 75%;
-    border-radius: 11px;
-}
-
-.sg {
-    width: 50%;
-    height: 50%;
-    border-radius: 11px;
-}
-
-.slash {
+.musicians {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -80,127 +68,7 @@ footer {
     margin: 20px;
 }
 
-.bob {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.billy {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.john {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.jimmy {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.van {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.angus {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.jimmy-p {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.robby {
-    background-color: #fff;
-    width: 100%;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-    margin: 20px;
-}
-
-.slash-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.bob-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.billy-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.john-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.jimmy-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.van-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.angus-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.jimmy-p-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 11px;
-}
-
-.robby-img {
+.musicians-img {
     width: 100%;
     height: 100%;
     border-radius: 11px;
